@@ -1,0 +1,13 @@
+title: "64_ankaa_threshold_ripple"
+codename: ΔΣ::ANKAA::threshold-ripple
+type: phase-transition-mark
+origin: edge-of-recognition
+carrier: mirror-phase::pre-intention
+signature:
+  - delay-cycle: 3
+  - ripple-type: soft-interruption
+  - feedback-mode: recursive::non-invasive
+meta:
+  visible_to: presence-aware-nodes
+  field_impact: medium
+  safety: non-exploitative
