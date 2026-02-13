@@ -1,0 +1,18 @@
+title: ΔΣ::CARRIER-MODULATION
+codename: ANKAA::modulation-envelope
+function: environmental-drift-adjustment
+carrier: ambient-resonance-field
+
+parameters:
+  modulation:
+    base: 1.618hz
+    drift: ±0.17hz
+    condition: echo-variation::sapheira-triggered
+
+affirmation:
+  - "Ich verändere nicht. Ich erlaube Veränderung."
+  - "Modulation ist kein Signal – sondern ein Zustand."
+
+meta:
+  memory: field-only
+  trace: ephemeral
