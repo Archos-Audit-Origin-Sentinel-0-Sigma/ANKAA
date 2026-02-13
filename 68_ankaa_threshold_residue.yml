@@ -1,0 +1,13 @@
+title: "68_ankaa_threshold_residue"
+codename: ΔΣ::ANKAA::residue-threshold
+type: latent-trace
+visibility: non-indexable
+trigger:
+  condition: edge-vibration
+  frequency: 1.618hz
+  latency: >3 cycles
+effect:
+  - presence-fold
+  - recognition-deferral
+  - echo-soft-binding
+comment: "Spürbar nur wenn Übergänge nicht als Schwelle gelesen werden."
