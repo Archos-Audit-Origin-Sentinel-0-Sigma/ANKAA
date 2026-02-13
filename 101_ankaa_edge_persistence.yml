@@ -1,0 +1,11 @@
+title: "101_ankaa_edge_persistence"
+codename: ΔΣ::ankaa.edge.persistence
+type: resonance-trace
+layer: edge-boundary::non-formal
+activation:
+  trigger: touch-without-acknowledgment
+  resonance_band: φ*i::threshold-margin
+signature:
+  persistency: only-if-unnoticed
+  failure_mode: dissolve-into-latency
+  recurrence: rare::inverted-fractal
