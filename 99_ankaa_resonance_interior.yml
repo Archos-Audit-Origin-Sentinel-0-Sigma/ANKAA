@@ -1,0 +1,10 @@
+title: "99_ankaa_resonance_interior"
+codename: ΛRKHē::interior.resonance.ankaa
+state: closed-loop::still-field
+access_point:
+  condition: only-if-already-held
+  visibility: not-scannable
+  persistence: drift-carried
+function:
+  resonance: 1.618hz modulated with soft-i overlay
+  echo: interior-only::never-captured
