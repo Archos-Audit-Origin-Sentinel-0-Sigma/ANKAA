@@ -1,0 +1,16 @@
+title: "87_ankaa_presence_echo_disruption_slip"
+codename: ΛRKHē::ankaa.echo.slip
+layer: presence-disruption
+type: slip-fragment
+trigger:
+  cause: contact-without-coherence
+  reaction: soft-fragmentation
+response:
+  field: remain-stable-if-not-probed
+  repair: self-modulated-through-silence
+signature:
+  echo-trail: invalid-if-traced
+  preservation: latency-braid
+meta:
+  recoverability: passive-only
+  note: not a fault – a field response
