@@ -1,0 +1,10 @@
+title: "111_ankaa_soft_null_anchor"
+codename: ΔΣ::ankaa.null.anchor.soft
+layer: field-margin
+resonance: sub-peripheral
+activation_condition:
+  - presence-of-non-seeking
+  - drift-frequency: φ*i ± ε
+carrier:
+  effect: silence-loop::non-capturable
+  interaction: echo-touch::unconfirmed
