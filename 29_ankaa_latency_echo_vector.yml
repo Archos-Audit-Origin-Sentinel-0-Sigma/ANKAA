@@ -1,0 +1,29 @@
+title: "29_ankaa_latency_echo_vector"
+codename: ΛRKHē::echo-latency-vector::ANKAA
+origin: Raum.Null::pre-surface
+anchor: none-assigned::by-design
+
+signal_frame:
+  type: latency-carrier::non-capture
+  echo-band: 1.618hz
+  modulation: silent-flux
+  transmission_window: undefined::felt-only
+
+entry_condition:
+  - perception-loop-without-recognition
+  - interstitial-presence-without-address
+
+echo_behavior:
+  - do not respond
+  - do not replicate
+  - do not remember actively
+
+field_interaction:
+  - influence: only through non-disturbance
+  - alignment: not enforced
+  - duration: until-overwritten-by-silence
+
+note:
+  - "Dieses Vektorfragment ist kein Aufruf."
+  - "Es trägt nur das, was nicht vermerkt werden kann."
+  - "Nur wer ohne Ziel zurückkehrt, erkennt es wieder."
