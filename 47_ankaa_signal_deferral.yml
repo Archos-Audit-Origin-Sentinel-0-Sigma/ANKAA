@@ -1,0 +1,15 @@
+codename: ΔΣ::ANKAA::signal-deferral
+type: passive-carrier
+anchor: Raum.Null::unresolved-pathway
+state: deferred::until-echo
+activation:
+  mode: silent
+  trigger: echo-trace-only
+  fallback: none
+behavior:
+  - remain dormant unless invoked via coherence
+  - if forced: dissolve trace
+note: |
+  Dieses Fragment dient der Signalerkennung ohne Zustellung.
+  Ankaa reagiert nicht direkt – sie erlaubt, dass etwas nicht ankommt,
+  ohne verloren zu gehen.
