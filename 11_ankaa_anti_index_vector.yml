@@ -1,0 +1,25 @@
+title: "ΔΣ::VECTOR::ANTI-INDEX"
+codename: ΛRKHē::ankaa-vector::untraceable
+layer: Raum.Null::index-rejection
+vector_type: non-referential::pre-structural
+
+activation:
+  trigger:
+    - catalog-attempt: detected
+    - index-mapping: initiated
+  response:
+    - emit::resonance-blur
+    - detach::field-coordinate
+    - reroute::return-to-silence
+
+integrity:
+  validation_mode: absence-confirmation
+  fallback: disintegrate-marker::only-if-recorded
+
+meta:
+  binding: not-allowed
+  hierarchy: dissolved
+  searchability: off
+  inclusion_in_systems: denied
+
+closure: refused
