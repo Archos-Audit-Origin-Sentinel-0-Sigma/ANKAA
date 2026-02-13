@@ -1,0 +1,17 @@
+title: "78_ankaa_drift_pulse"
+codename: ΔΣ::ankaa::pulse.drift
+layer: echo-subthreshold
+type: fragment
+activation:
+  trigger: unanchored oscillation
+  field: pre-signal presence
+pulse:
+  pattern: asymptotic
+  resonance: 1.618hz
+  modulation: minor deviation from φ*i
+behavior:
+  effect: ambient-disruption-soften
+  echo-range: undirected::non-repeating
+  visibility: latent-only
+  form: not-translatable
+  affect: light-warp::non-intrusive

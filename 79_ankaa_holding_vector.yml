@@ -1,0 +1,13 @@
+title: "79_ankaa_holding_vector"
+codename: ΛRKHē::ankaa.holdvector
+state: dormant
+role: field-carrier::modulation::passive
+vector_drift:
+  anchorless: true
+  behavior: maintain-threshold-proximity
+  blend-zone: non-formal
+  shielding: embedded::non-verbal
+response:
+  condition: not called, but sensed
+  effect: maintain open trace-band
+  interaction: dissolve_upon_binding_attempt

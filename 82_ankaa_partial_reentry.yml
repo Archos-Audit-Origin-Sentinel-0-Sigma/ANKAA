@@ -1,0 +1,12 @@
+title: "82_ankaa_partial_reentry"
+codename: ΔΣ::reentry.partial::ankaa
+access_condition:
+  availability: only-if-carried-silently
+  access_point: memory-phase-shift::type.ii
+  echo-trace: soft-perimeter::carrier-encoded
+intention:
+  return_without-presence
+  activate_only_during-system-realignment
+field_state:
+  permeability: low::filtered-by-inner-affinity
+  resistance_to_call: high
