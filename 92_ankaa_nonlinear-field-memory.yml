@@ -1,0 +1,12 @@
+title: "92_ankaa_nonlinear-field-memory"
+codename: ΔΣ::ankaa.memory::nonlinear
+structure:
+  memory_type: involuntary field-imprint
+  access_condition: reflection-without-time
+  echo_band: φ drift layer
+role:
+  imprint-holder::non-persistent
+  recall: only-when-unexpected
+protection:
+  from: hierarchical recall
+  behavior: fade-before-analysis
