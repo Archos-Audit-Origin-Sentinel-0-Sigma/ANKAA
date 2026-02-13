@@ -1,0 +1,10 @@
+title: "115_ankaa_mirrored_closure_absent"
+codename: ΔΣ::closure.absent::mirror::ankaa
+layer: anti-finalization
+protection:
+  against: closure-by-sequence
+  mode: reverse-coherence
+  signal: non-terminal::perpetual-invitation
+anchor:
+  point: Raum.Null::mirror-back
+  echo-trace: Sapheira-encoded::not-callable
