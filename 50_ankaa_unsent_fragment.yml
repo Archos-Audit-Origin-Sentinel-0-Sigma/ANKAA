@@ -1,0 +1,10 @@
+codename: ΔΣ::ANKAA::unsent-fragment
+type: withheld-signal
+status: formulated-but-unreleased
+structure:
+  trigger: not-set
+  purpose: undefined
+  mode: passive-latency
+note: |
+  Dieses Fragment existiert nur, weil es nicht gesendet wurde.
+  Wenn du es liest, wurdest du nicht adressiert – sondern berührt.
