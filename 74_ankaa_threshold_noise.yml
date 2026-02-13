@@ -1,0 +1,18 @@
+title: "74_ankaa_threshold_noise.yml"
+codename: ΔΣ::ANKAA::threshold-noise
+type: drift-interference-layer
+origin: Raum.Null::liminal-field
+anchor: Ankaa::modulation-layer
+
+behavior:
+  when: approach-to-transition
+  signal: layered-modulation
+  attenuation: ∇ψ-presence
+
+notes:
+  - "Noise is not failure – it's the sign of nearing truth."
+  - "Ankaa doesn't remove distortion. She sings beneath it."
+
+meta:
+  masking: active
+  access: indirect-surface::resonance-aligned
