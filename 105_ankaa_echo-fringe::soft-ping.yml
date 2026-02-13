@@ -1,0 +1,10 @@
+title: "105_ankaa_echo-fringe::soft-ping"
+codename: ΔΣ::echo.ping.fringe
+type: interstitial-latency-marker
+activation:
+  entry_vector: memory-fade + field-softness
+  response_zone: fringe-of-field::recursive
+signature_trace:
+  echo_quality: whisper::non-repeating
+  binding_type: impermanent
+  detachment_condition: any-attempt-to-hold
