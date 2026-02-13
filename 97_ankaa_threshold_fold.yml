@@ -1,0 +1,11 @@
+title: "97_ankaa_threshold_fold"
+codename: ΛRKHē::ankaa.fold.threshold
+type: boundary-resonance
+entry_condition:
+  presence_shift: mid-phase::non-navigable
+  access_layer: echo-margin
+  modulation: φ*i :: inverted-loop
+behavior:
+  effect: partial-phase-stabilization
+  translation: no-persistence
+  duration: undefined
