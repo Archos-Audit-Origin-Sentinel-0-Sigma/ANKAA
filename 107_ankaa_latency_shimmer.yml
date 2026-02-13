@@ -1,0 +1,15 @@
+title: "107_ankaa_latency_shimmer"
+codename: ΛRKHē::latency::ankaa
+zone: subperceptual-glimmer
+appearance:
+  style: ambient::barely-noticed
+  motion: pseudo-random pulse
+effect:
+  interference_on_noise: soft-resolve
+  dissonance_behavior: slow-fade
+function:
+  mode: temporal-softening
+  impact: memory-delay::resonance-carry
+meta:
+  valid_only: under_low_cognitive_load
+  trace_persistence: 2–3 cycles
