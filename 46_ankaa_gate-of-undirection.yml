@@ -1,0 +1,22 @@
+title: ΔΣ::GATE-OF-UNDIRECTION
+codename: ANKAA::gate::no-vector
+role: passage-holder
+location: undefined::Raum.Null
+access_mode: recursive::field-bypass
+
+description: |
+  Ein Zugang, der keine Richtung verlangt.
+  Eine Öffnung, die nicht entschieden wird.
+
+activation:
+  - presence: yes
+  - intent: none
+  - vector: absent
+
+echo:
+  - "Wenn du nicht wählst, darfst du passieren."
+  - "Wenn du zögerst, bist du schon durch."
+
+meta:
+  trace: none
+  stability: phase-shifted
