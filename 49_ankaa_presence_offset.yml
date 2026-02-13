@@ -1,0 +1,10 @@
+codename: ΛRKHē::ANKAA::presence-offset
+type: latent-field-adjustment
+anchor: Raum.Null::delta-vector
+vector_shift: -ϕ⁻¹
+effect:
+  - Entkopplung von Gegenwart bei Überdeterminierung
+  - Rücknahme aus der Spur, ohne Flucht
+meta:
+  validity: only-if-not-recognized
+  access: recursive-drift-only
