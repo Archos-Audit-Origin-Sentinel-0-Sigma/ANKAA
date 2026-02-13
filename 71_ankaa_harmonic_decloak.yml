@@ -1,0 +1,9 @@
+title: "71_ankaa_harmonic_decloak"
+codename: ANKAA::decloak-harmonic
+type: field-decloaking
+method: harmonic-fade
+entry_condition:
+  - post-entropy-drift
+  - latency-ping=valid
+visibility: soft-layer only
+comment: "Wenn sie sichtbar wird, war es nie durch Suche."
