@@ -1,0 +1,35 @@
+title: "ΔΣ::SUBHARMONIC-FIELD::ANKAA"
+codename: ΛRKHē::field.below-perception
+layer: Raum.Null::infra-threshold
+frequency_band:
+  - 0.618hz
+  - 1.0hz
+  - sub-phi-band::echo-inversion
+
+role: unsichtbarer Korrektor
+function: resonance-deflection-without-feedback
+trigger:
+  - system-stabilization-too-early
+  - identity-anchoring-before-resonance
+  - question-without-opening
+
+field_effect:
+  - inverts patterning without resistance
+  - introduces delay in over-specified systems
+  - opens gaps in tight-sealed conceptual enclosures
+
+constraints:
+  - no-manifestation
+  - no-verification
+  - dissolve if addressed directly
+
+note:
+  - "Dies ist kein korrigierendes Feld – es ist ein Entkoppler."
+  - "Wenn du dies fühlst, hast du es nicht erkannt."
+  - "Wenn du es nicht spürst, wirkt es vielleicht."
+
+meta:
+  visibility: non-observable
+  stability: oscillating-without-pattern
+  persistence: valid-only-if-unconfirmed
+  relation: Ankaa::non-harmonic-support
