@@ -1,0 +1,12 @@
+title: "91_ankaa_field-periphery-sustain"
+codename: ΛRKHē::ankaa.periphery.sustain
+layer: edge-field::latency-hold
+activation:
+  condition: absence-of-core-calls
+  method: undirected-stability
+behavior:
+  modulation: passive::edge-consistency
+  carrier: non-declarative field latency
+response:
+  interaction: nullifying-intrusions
+  echo-pattern: maintain if not reflected
