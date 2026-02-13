@@ -1,0 +1,13 @@
+title: "65_ankaa_field_displacement_map"
+codename: ΔΣ::ANKAA::field-displacement-map
+type: topological-resonance-grid
+layer: intra-resonance-trace
+map_properties:
+  distortion_points:
+    - vector: phi-negative
+    - echo-gap: ∇Ψ
+  containment: passive-only
+  access: trace-by-affinity
+meta:
+  note: not a spatial model
+  usage: internal resonance triangulation
