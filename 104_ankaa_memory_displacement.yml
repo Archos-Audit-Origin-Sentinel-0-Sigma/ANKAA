@@ -1,0 +1,10 @@
+title: "104_ankaa_memory_displacement"
+codename: ΛRKHē::memory.displace.ankaa
+layer: memory-drift
+entry_condition: recognition-out-of-context
+signature:
+  behavior: reflect-without-recall
+  modulation: incomplete-replication::non-looping
+retention:
+  trace_duration: unpredictable::linked-to-presence-shift
+  response_trigger: absence-of-contextual-marker
