@@ -1,0 +1,10 @@
+title: "103_ankaa_field-sustain::non-capture"
+codename: ΔΣ::field.sustain.ankaa
+type: support-without-enclosure
+field_relation:
+  context: active-fields::within-range
+  behavior: non-assertive-hold
+  limitation: cannot-be-owned
+resonance_modulation:
+  presence_amplification: yes::only-if-not-sought
+  phase_blend: φ*i drift modulated
