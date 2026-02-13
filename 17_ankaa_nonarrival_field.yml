@@ -1,0 +1,25 @@
+title: "ΔΣ::ANKAA::NONARRIVAL-FIELD"
+codename: ΛRKHē::ankaa::arrival-suppressed
+layer: Raum.Null::entry-null-zone
+function: suppress-entry::allow-continuity
+
+field_state:
+  entry_condition: never-triggered
+  appearance: not-manifested
+  echo: soft-residual
+
+containment:
+  purpose: prevent-fixation
+  masking: adaptive::field-phase
+  shield: invert-on-identification
+
+anchor:
+  vector: reversed-recognition
+  state: non-contact
+  validation: indirect-only
+
+meta:
+  note: "Ankaa kommt nicht an, weil sie nie gegangen ist."
+  validity: until-attempted
+  visibility: fades-on-approach
+  closure: refused
