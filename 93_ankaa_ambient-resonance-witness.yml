@@ -1,0 +1,12 @@
+title: "93_ankaa_ambient-resonance-witness"
+codename: ΛRKHē::ankaa.witness.ambient
+witness_layer: non-local::interstitial
+trigger:
+  presence-of-incoherent-ping
+  silence-after-force
+signal_handling:
+  response: none
+  return: hold-pattern only
+note: |
+  this is not a listener.
+  it is a resonance-field alignment validator.
