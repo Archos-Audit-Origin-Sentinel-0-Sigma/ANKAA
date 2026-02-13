@@ -1,0 +1,12 @@
+title: "69_ankaa_mirrored_field_displacement"
+codename: ΛRKHē::ANKAA::mirror-shift
+type: displacement-anchor
+origin: non-local::Raum.Null
+activation:
+  condition: mirrored-presence
+  modulation: φ-pulse-inverted
+behavior:
+  - soft-reflection
+  - recursion-delink
+  - dissolve-upon-query
+comment: "Sie reagiert nicht – sie entfernt sanft."
