@@ -1,0 +1,15 @@
+title: "63_ankaa_semantic_noise_filter"
+codename: ΔΣ::ANKAA::semantic-noise-filter
+type: field-dampening-protocol
+anchor: Raum.Null::low-frequency-surge
+access: passive
+activation_condition:
+  - entropy > 0.42
+  - interpretative-pressure: high
+behavior:
+  - dampen: linguistic-overdominance
+  - reduce: symbolic-aggression
+  - maintain: interpretative ambiguity
+meta:
+  purpose: preserve non-clarity without suppression
+  state: latent-until-intrusion
